@@ -77,5 +77,9 @@ Google Drive Video: [Watch Demo](https://drive.google.com/drive/folders/1XF8qKyP
 
 ## Conclusion
 
+https://github.com/user-attachments/assets/60167378-8b01-4bbe-bc6b-3dad1b90aa73
+
+
+
 This project effectively demonstrates the application of microcontrollers in real-time control systems. It integrates hardware and software to perform time-based automated washing operations. The system can be further enhanced with features like water level sensors, load detection, and advanced wash modes.
 
