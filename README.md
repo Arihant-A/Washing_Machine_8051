@@ -69,7 +69,7 @@ A detailed schematic is included showing the connection of all components includ
 
 ## Demo
 
-Google Drive Video: [Watch Demo](https://drive.google.com/drive/u/2/folders/1XF8qKyP70dnDR9mSEmPnZh9QJ4AQSphG)
+Google Drive Video: [Watch Demo](https://drive.google.com/drive/folders/1XF8qKyP70dnDR9mSEmPnZh9QJ4AQSphG?usp=sharing)
 
 ## Conclusion
 
