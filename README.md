@@ -59,6 +59,10 @@ The project is programmed in Embedded C using Keil uVision. Interrupt-based Time
 ## Schematic
 
 A detailed schematic is included showing the connection of all components including microcontroller pins, motors, LEDs, buzzer, switches, and 7-segment display (Designed in Proteus).
+![image](https://github.com/user-attachments/assets/0efca8c5-6700-4e20-901f-a07b6090e33b)
+![image](https://github.com/user-attachments/assets/95d6325f-8410-464c-b9a5-7c29e81cb6c1)
+![image](https://github.com/user-attachments/assets/ec6e2213-2020-48ee-8944-38cffe43f652)
+![image](https://github.com/user-attachments/assets/3826c97c-a886-437c-889a-a8c26329679f)
 
 ## Observations
 
@@ -74,3 +78,4 @@ Google Drive Video: [Watch Demo](https://drive.google.com/drive/folders/1XF8qKyP
 ## Conclusion
 
 This project effectively demonstrates the application of microcontrollers in real-time control systems. It integrates hardware and software to perform time-based automated washing operations. The system can be further enhanced with features like water level sensors, load detection, and advanced wash modes.
+
